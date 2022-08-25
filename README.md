@@ -1,4 +1,7 @@
 # BlackJack_Game
+
+Link of the project: https://khushipm.github.io/BlackJack_Game/
+
 Online Card Game
 - Game starts with 2 card values.
 - Sum = 21, the user wins.
